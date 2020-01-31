@@ -2,7 +2,7 @@
 layout: post
 title: About Me
 cover: cover.jpg
-date:   2020-01-31 6:30:00
+date:   2020-02-01 6:30:00
 categories: posts
 ---
 
