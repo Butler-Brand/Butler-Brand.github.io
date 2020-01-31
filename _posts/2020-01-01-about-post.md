@@ -4,6 +4,7 @@ title: About Me
 cover: cover.jpg
 date:   2020-02-01 6:30:00
 categories: posts
+order: 2
 ---
 
 ## Who is this Brandon Butler?
