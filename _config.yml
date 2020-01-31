@@ -1,3 +1,6 @@
 name: Flex
 markdown: redcarpet
 highlighter: rogue
+pages:
+    Home: 2019-12-31-home-post.md
+    About: 2020-01-01-about-post.md
