@@ -24,11 +24,10 @@
       <div class="sidebar" id="sidebar">
         <div class="header">
           <h1 class="title"><a href="/"><img id="logo" src="/images/logo.png"></a></h1>
-          <span class="tagline">A responsive Jekyll theme</span>
+          <!-- <span class="tagline">A responsive Jekyll theme</span> -->
         </div>
         <div class="posts">
           <ul class="posts-list">
-			{% assign sorted_posts = site.posts | sort:"order" %}
             {% for post in sorted_posts %}
               <li class="post-link">
                 <a class="post-title" href="{{ post.url }}">
