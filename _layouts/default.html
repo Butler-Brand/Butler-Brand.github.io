@@ -28,7 +28,8 @@
         </div>
         <div class="posts">
           <ul class="posts-list">
-            {% for post in site.sorted_posts %}
+			{% assign current_posts = site.posts | sort:"order" %}
+            {% for post in current_posts %}
               <li class="post-link">
                 <a class="post-title" href="{{ post.url }}">
                   <!-- <span class="post-date">{{ post.date | date_to_string }}</span> -->
