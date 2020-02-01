@@ -26,7 +26,7 @@ Look on my Works, ye Mighty, and despair!
 	<br />
 * <strong>All Aboard!</strong>, <em>2020</em>: Laughing at Shadows<br />
 	Brett Reistroffer and Bad Dream Entertainment bring you the finest in comedy-based horror (or is that the other way around?) since the Evil Dead.
-	Very proud to be a part of this one -- it was the story that told me I might actually want to keep at this writing thing and see where it goes.
+	Very proud to be a part of this one -- it was the story that told me I might actually want to keep at this writing thing this time around and see where it goes.
 	[Get it here on Amazon!](https://www.amazon.com/Laughing-at-Shadows-Brett-Reistroffer-ebook/dp/B0829GBNRW/ref=pd_rhf_se_p_img_8?_encoding=UTF8&psc=1&refRID=F2VTBN08SV5M4SZWE2R7)
 
 I'll be updating this page as more stories are annouced -- there's at least one more right now that I haven't included that's coming next year -- so stay tuned!
