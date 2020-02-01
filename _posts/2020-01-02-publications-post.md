@@ -11,7 +11,7 @@ order: 3
 
 Look on my Works, ye Mighty, and despair!
 
-* <strong>A Few Days North of Vienna</strong>, <em>2003</em>: Writer of the Future, Volume 19<br />
+* <strong>A Few Days North of Vienna</strong>, <em>2003</em>: Writers of the Future, Volume 19<br />
 	The story that started it all, more or less. This was perhaps the most mind-blowing experience of my life and I still
 	have to convince myself that it happened. A great thrill to have my name alongside luminaries like Ken Liu, Jay Lake, Myke Cole, and
 	who can forget my unforgettable WOTF roomie, Steve Saville [Entry on Amazon](https://www.amazon.com/Hubbard-Presents-Writers-Future-Vol/dp/1592121659)
