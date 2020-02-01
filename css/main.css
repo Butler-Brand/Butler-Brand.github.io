@@ -60,6 +60,10 @@ a:hover {
   color: #777;
 }
 
+.posts li {
+	margin-bottom:5px;
+}
+
 .posts-list {
   list-style-type: none;
 }
@@ -67,7 +71,6 @@ a:hover {
 .posts-list li {
   text-align: center;
   line-height: 1.75em;
-  margin-bottom:5px;
 }
 
 /*****************************************************************************/
