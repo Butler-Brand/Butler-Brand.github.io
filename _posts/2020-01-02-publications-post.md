@@ -33,7 +33,8 @@ Look on my Works, ye Mighty, and despair!
 	This is one of my best stories, a good 15 years old since the first draft and generally unchanged since. Olivia Raymond and the fine folks at Helios will
 	be bringing this your way very soon.
 	
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 	
 TDotSpec's One-Day Writing Challenge
 
