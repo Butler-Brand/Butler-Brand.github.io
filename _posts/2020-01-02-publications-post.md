@@ -28,9 +28,27 @@ Look on my Works, ye Mighty, and despair!
 	Brett Reistroffer and Bad Dream Entertainment bring you the finest in comedy-based horror (or is that the other way around?) since the Evil Dead.
 	Very proud to be a part of this one -- it was the story that told me I might actually want to keep at this writing thing this time around and see where it goes.
 	[Get it here on Amazon!](https://www.amazon.com/Laughing-at-Shadows-Brett-Reistroffer-ebook/dp/B0829GBNRW/ref=pd_rhf_se_p_img_8?_encoding=UTF8&psc=1&refRID=F2VTBN08SV5M4SZWE2R7)
-* <strong>The Fire, as it Eats Itself</strong>, <em>forthcoming, 2021</em> Helios Quarterly Magazine<br />
+	<br />
+* <strong>The Fire, as it Eats Itself</strong>, <em>forthcoming, 2021</em>: Helios Quarterly Magazine<br />
 	This is one of my best stories, a good 15 years old since the first draft and generally unchanged since. Olivia Raymond and the fine folks at Helios will
 	be bringing this your way very soon.
 	
+
+	
+TDotSpec's One-Day Writing Challenge
+
+Now entering it's third year, the Toronto Science Fiction and Fantasy Writing group -- possibly the largest speculative writing group in Canada -- puts on a one-day challenge
+to write story in a consecutive 24-hour period. The stories are then compiled into an anthology that is sold online, warts and all. Which, considering you know going in what
+you submit can't possible be perfect, is part of the challenge.
+
+I'm heavily involved in this group, and recuse myself from entering its other various paid anthologies for which I often serve as a first reader or editor, but I've because
+these anthologies are purely based on if you can complete the story and quality is to some extend secondary, I enter this every year. It's a lot of fun.
+
+Therefore, I have a story in each of these volumes:
+
+* <strong>In the Zone</strong>, <em>2018</em>: Sanctuary [Get it here on Amazon!](https://www.amazon.ca/dp/B07JC8T36D/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+* <strong>Eighteen Years</strong>, <em>2018</em>: Colony [Get it here on Amazon!](https://www.amazon.ca/Colony-one-shot-anthology-speculative-One-shot-ebook/dp/B07ZBKCR2S/ref=pd_rhf_se_p_img_6?_encoding=UTF8&psc=1&refRID=T8WAW8B3CH3X6X2CNNA4)
+* <strong>The Common Sorcerer's Almanac</strong>, <em>2019</em>: Nourishment [Get it here on Amazon!](https://www.amazon.ca/Nourishment-One-Shot-Anthology-Speculative-speculative-ebook/dp/B07YF1P4GW/ref=pd_rhf_dp_p_img_4?_encoding=UTF8&psc=1&refRID=1QJ9B8ZBV9N28XKA7SEX)
+
 	
 I'll be updating this page as more stories are sold, so stay tuned!
