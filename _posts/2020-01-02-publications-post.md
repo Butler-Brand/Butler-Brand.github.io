@@ -37,14 +37,14 @@ Look on my Works, ye Mighty, and despair!
 	
 TDotSpec's One-Day Writing Challenge
 
-Now entering it's third year, the Toronto Science Fiction and Fantasy Writing group -- possibly the largest speculative writing group in Canada -- puts on a one-day challenge
-to write story in a consecutive 24-hour period. The stories are then compiled into an anthology that is sold online, warts and all. Which, considering you know going in what
+Now entering it's third year, the Toronto Science Fiction and Fantasy Writing group -- possibly the largest speculative writing group in Canada -- puts on a challenge
+to write an entire story in a 24-hour period. These are then compiled into an anthology sold online, warts and all. Which, considering you know what
 you submit can't possible be perfect, is part of the challenge.
 
-I'm heavily involved in this group, and recuse myself from entering its other various paid anthologies for which I often serve as a first reader or editor, but I've because
-these anthologies are purely based on if you can complete the story and quality is to some extend secondary, I enter this every year. It's a lot of fun.
+I'm heavily involved in this group, and recuse myself from entering other various paid anthologies for which I often serve as a first reader or editor, but I've because
+these are purely based on completion and quality is, to some extent, secondary, I enter this every year. It's a lot of fun.
 
-Therefore, I have a story in each of these volumes:
+I have a story in each of these volumes:
 
 * <strong>In the Zone</strong>, <em>2018</em>: Sanctuary [Get it here on Amazon!](https://www.amazon.ca/dp/B07JC8T36D/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 * <strong>Eighteen Years</strong>, <em>2018</em>: Colony [Get it here on Amazon!](https://www.amazon.ca/Colony-one-shot-anthology-speculative-One-shot-ebook/dp/B07ZBKCR2S/ref=pd_rhf_se_p_img_6?_encoding=UTF8&psc=1&refRID=T8WAW8B3CH3X6X2CNNA4)
