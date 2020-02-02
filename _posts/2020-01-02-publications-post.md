@@ -28,5 +28,9 @@ Look on my Works, ye Mighty, and despair!
 	Brett Reistroffer and Bad Dream Entertainment bring you the finest in comedy-based horror (or is that the other way around?) since the Evil Dead.
 	Very proud to be a part of this one -- it was the story that told me I might actually want to keep at this writing thing this time around and see where it goes.
 	[Get it here on Amazon!](https://www.amazon.com/Laughing-at-Shadows-Brett-Reistroffer-ebook/dp/B0829GBNRW/ref=pd_rhf_se_p_img_8?_encoding=UTF8&psc=1&refRID=F2VTBN08SV5M4SZWE2R7)
-
-I'll be updating this page as more stories are annouced -- there's at least one more right now that I haven't included that's coming next year -- so stay tuned!
+* <strong>The Fire, as it Eats Itself</strong>, <em>forthcoming, 2021</em> Helios Quarterly Magazine<br />
+	This is one of my best stories, a good 15 years old since the first draft and generally unchanged since. Olivia Raymond and the fine folks at Helios will
+	be bringing this your way very soon.
+	
+	
+I'll be updating this page as more stories are sold, so stay tuned!
