@@ -30,7 +30,7 @@ Look on my Works, ye Mighty, and despair!
 	[Get it here on Amazon!](https://www.amazon.com/Laughing-at-Shadows-Brett-Reistroffer-ebook/dp/B0829GBNRW/ref=pd_rhf_se_p_img_8?_encoding=UTF8&psc=1&refRID=F2VTBN08SV5M4SZWE2R7)
 	<br />
 * <strong>The Fire, as it Eats Itself</strong>, <em>forthcoming, 2021</em>: Helios Quarterly Magazine<br />
-	This is one of my best stories, a good 15 years old since the first draft and generally unchanged since. Olivia Raymond and the fine folks at Helios will
+	This is one of my favorites, a good 15 years old since the first draft and generally unchanged since. Olivia Raymond and the fine folks at Helios will
 	be bringing this your way very soon.
 	
 <p>&nbsp;</p>
