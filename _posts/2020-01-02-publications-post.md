@@ -40,10 +40,12 @@ TDotSpec's One-Day Writing Challenge
 
 Now entering it's third year, the Toronto Science Fiction and Fantasy Writing group -- possibly the largest speculative writing group in Canada -- puts on a challenge
 to write an entire story in a 24-hour period. These are then compiled into an anthology sold online, warts and all. Which, considering you know what
-you submit can't possible be perfect, is part of the challenge.
+you submit can't possible be porfect, is part of the challenge.
 
-I'm heavily involved in this group, and recuse myself from entering other various paid anthologies for which I often serve as a first reader or editor, but I've because
-these are purely based on completion and quality is, to some extent, secondary, I enter this every year. It's a lot of fun.
+I'm heavily involved in this group, and recuse myself from entering their other paid anthologies for which I often serve as a first reader or editor. But these are
+purely based on completion and quality is, to some extent, secondary.
+
+I enter every year. It's a lot of fun.
 
 I have a story in each of these volumes:
 
