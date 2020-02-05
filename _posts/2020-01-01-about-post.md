@@ -7,7 +7,7 @@ categories: posts
 order: 2
 ---
 
-## Who is this Brandon Butler?
+## Who is this so-called 'Brandon Butler'?
 
 Just some guy.
 
