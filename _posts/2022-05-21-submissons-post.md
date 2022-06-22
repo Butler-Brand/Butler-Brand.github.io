@@ -32,15 +32,14 @@ order: 5
 <p>Other concepts might be a general location, such as a colony, or even a subgenre, such as post-apocalypse; anything that might be distilled down into a tarot card. Wow us with your ideas!</p>
 <p>Upon acceptance, our plan is to commission an artist to work on a black & white illustration of the author's card concept to accompany their published story.</p>
 <p>In addition:</p>
-<br />
 
 - Original stories will be accepted at our target rate of acceptance (1 cent/word minimum, stretch goal of 3 cents/word).
-  <br />
+  <br /><br />
 - Reprints will be accepted at a rate of 1 cent/word.
-  <br />
+  <br /><br />
 - No multiple submissions are allowed. Once your story has been rejected and, granted the submissions window is still open, you may submit again. If a story of yours has been accepted prior to the window closing, no further stories will be considered. One story at a time, please!
-  <br />
+  <br /><br />
 - Simultaneous submissions are allowed, provided we are promptly informed of the story's acceptance elsewhere
 
-<br />
-We shall seek 3 months worldwide print and digital rights on original works selected. For reprints we will seek non-exclusive rights
+
+<p>We shall seek 3 months worldwide print and digital rights on original works selected. For reprints we will seek non-exclusive rights</p>
