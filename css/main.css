@@ -37,10 +37,19 @@ a img {
 img.tarot_card {
 	max-width:250px;
 }
-
 div.tile {
-	width: 50%;
+	width:100%
+}
+
+div.tile > div {
+	width: 33%;
 	margin: 0 auto;
+}
+
+div.tile > div {
+	text-align: center;
+	vertical-align: middle;
+	line-height: 90px;
 }
 
 a:hover {
