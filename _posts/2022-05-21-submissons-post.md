@@ -9,25 +9,20 @@ order: 5
 
 ## Submissions for the Science Fiction Tarot
 
-Our submission process for this anthology will be a little different.
-<br />
-<em>The Science Fiction Tarot</em> will contain 22 stories, one tale standing in for each of the cards of the major arcana and placing the anthologies word count at approximately 90-110K words. Stories of up to 7,500 words will be considered, but please be advised that submissions of 5,000 words and under will have the best chance to be selected.
-<br />
-Each author will be expected to submit a 1-3 word science fiction concept for a card, along with a story that exhibits that idea through character, plot or theme. <strong>Please have a clear archetype, setting, or SF subgenre and center your submission around the concept:</strong> the focus of the tale ought to be the idea conveyed, not tarot cards themselves.
-<br />
-For example, take the following image:
-<br />
-<img src="./Images/Tarot_AI.jpg" />
-<br />
-An example submission for the above might be:
-<br />
+
+<p>Our submission process for this anthology will be a little different.</p>
+<p><em>The Science Fiction Tarot</em> will contain 22 stories, one tale standing in for each of the cards of the major arcana and placing the anthologies word count at approximately 90-110K words. Stories of up to 7,500 words will be considered, but please be advised that submissions of 5,000 words and under will have the best chance to be selected.</p>
+<p>Each author will be expected to submit a 1-3 word science fiction concept for a card, along with a story that exhibits that idea through character, plot or theme. <strong>Please have a clear archetype, setting, or SF subgenre and center your submission around the concept:</strong> the focus of the tale ought to be the idea conveyed, not tarot cards themselves.</p>
+<p>For example, take the following image:<p>
+<img src="/images/Tarot_AI.jpg" />
+<p>An example submission for the above might be:</p>
 <strong>Tarot Concept:</strong> A.I
 <strong>Story Title:</strong> Mechanized Justice
 <strong>Number of words:</strong> 3,500
 <br />
 Or, perhaps this image could be what follows below: 
 <br />
-<img src="./Images/Tarot_Geneticist.jpg" />
+<img src="/images/Tarot_Geneticist.jpg" />
 <br />
 <strong>Tarot Concept:</strong> The Geneticist
 <strong>Story Title:</strong> The Vats of Dr. Qualim
