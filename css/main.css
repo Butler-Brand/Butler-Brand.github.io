@@ -34,6 +34,10 @@ a img {
   outline: none;
 }
 
+img.tarot_card {
+	max-width:250px;
+}
+
 a:hover {
   color: #555;
   border: none;
