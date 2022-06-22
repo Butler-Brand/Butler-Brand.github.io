@@ -13,24 +13,26 @@ order: 5
 <p>Our submission process for this anthology will be a little different.</p>
 <p><em>The Science Fiction Tarot</em> will contain 22 stories, one tale standing in for each of the cards of the major arcana and placing the anthologies word count at approximately 90-110K words. Stories of up to 7,500 words will be considered, but please be advised that submissions of 5,000 words and under will have the best chance to be selected.</p>
 <p>Each author will be expected to submit a 1-3 word science fiction concept for a card, along with a story that exhibits that idea through character, plot or theme. <strong>Please have a clear archetype, setting, or SF subgenre and center your submission around the concept:</strong> the focus of the tale ought to be the idea conveyed, not tarot cards themselves.</p>
-<p>For example, take the following image:<p>
-<img src="/images/Tarot_AI.jpg" class="tarot_card" />
-<p>An example submission for the above might be:</p>
-<strong>Tarot Concept:</strong> A.I<br />
-<strong>Story Title:</strong> Mechanized Justice<br />
-<strong>Number of words:</strong> 3,500<br />
-<p>Or, perhaps this image could be what follows below: </p>
-<img src="/images/Tarot_Geneticist.jpg" class="tarot_card" />
-<br />
-<strong>Tarot Concept:</strong> The Geneticist <br />
-<strong>Story Title:</strong> The Vats of Dr. Qualim <br />
-<strong>Number of words:</strong> 5,000  <br />
-<br />
-Other concepts might be a general location, such as a colony, or even a subgenre, such as post-apocalypse; anything that might be distilled down into a tarot card. Wow us with your ideas!
-<br />
-Upon acceptance, our plan is to commission an artist to work on a black & white illustration of the author's card concept to accompany their published story.
-<br />
-In addition:
+<p>For example, take the following images. They are followed by possible sample submission details (our form will ask for a few more things, naturally):<p>
+<div>
+	<div class="tile">
+		<img src="/images/Tarot_AI.jpg" class="tarot_card" />
+		<strong>Tarot Concept:</strong> A.I<br />
+		<strong>Story Title:</strong> Mechanized Justice<br />
+		<strong>Number of words:</strong> 3,500<br />
+	</div>
+</div>
+<div>
+	<div class="tile">
+		<img src="/images/Tarot_Geneticist.jpg" class="tarot_card" />
+		<strong>Tarot Concept:</strong> The Geneticist <br />
+		<strong>Story Title:</strong> The Vats of Dr. Qualim <br />
+		<strong>Number of words:</strong> 5,000  <br />
+	</div>
+</div>
+<p>Other concepts might be a general location, such as a colony, or even a subgenre, such as post-apocalypse; anything that might be distilled down into a tarot card. Wow us with your ideas!</p>
+<p>Upon acceptance, our plan is to commission an artist to work on a black & white illustration of the author's card concept to accompany their published story.</p>
+<p>In addition:</p>
 <br />
 
 - Original stories will be accepted at our target rate of acceptance (1 cent/word minimum, stretch goal of 3 cents/word).

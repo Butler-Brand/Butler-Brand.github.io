@@ -38,6 +38,11 @@ img.tarot_card {
 	max-width:250px;
 }
 
+div.tile {
+	width: 50%;
+	margin: 0 auto;
+}
+
 a:hover {
   color: #555;
   border: none;
