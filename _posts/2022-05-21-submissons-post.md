@@ -41,7 +41,7 @@ order: 5
 <p>Upon acceptance, our plan is to commission an artist to work on a black & white illustration of the author's card concept to accompany their published story.</p>
 <p>In addition:</p>
 
-- Original stories will be accepted at our target rate of acceptance (1 cent/word minimum, stretch goal of 3 cents/word).
+- Original stories will be accepted at our target rate of acceptance (3 cents/word).
   <br /><br />
 - Reprints will be accepted at a rate of 1 cent/word.
   <br /><br />
