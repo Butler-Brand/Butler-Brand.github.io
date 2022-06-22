@@ -46,5 +46,5 @@ order: 5
   <br /><br />
 - Simultaneous submissions are allowed, provided we are promptly informed of the story's acceptance elsewhere
 
-
+<br />
 <p>We shall seek 3 months worldwide print and digital rights on original works selected. For reprints we will seek non-exclusive rights</p>
