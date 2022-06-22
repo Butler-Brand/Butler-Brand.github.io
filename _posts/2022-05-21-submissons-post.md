@@ -24,6 +24,7 @@ order: 5
 		</div>
 	</div>
 </div>
+<br />
 <div class="tile">
 	<div>
 		<img src="/images/Tarot_Geneticist.jpg" class="tarot_card" />
@@ -34,6 +35,7 @@ order: 5
 		</div>
 	</div>
 </div>
+<br />
 <p>Other concepts might be a general location, such as a colony, or even a subgenre, such as post-apocalypse; anything that might be distilled down into a tarot card. Wow us with your ideas!</p>
 <p>Upon acceptance, our plan is to commission an artist to work on a black & white illustration of the author's card concept to accompany their published story.</p>
 <p>In addition:</p>
