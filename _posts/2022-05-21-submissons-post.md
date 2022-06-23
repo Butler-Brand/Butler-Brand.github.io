@@ -25,6 +25,7 @@ order: 5
 	</div>
 </div>
 <br />
+<br />
 <div class="tile">
 	<div>
 		<img src="/images/Tarot_Geneticist.jpg" class="tarot_card" />
@@ -35,6 +36,7 @@ order: 5
 		</div>
 	</div>
 </div>
+<br />
 <br />
 <p>Be advised the above are examples -- both 'A.I' and 'Geneticist' are not taken and could be open options for <em>your</em> story, complete with new, different illustrations: although another author might potentially try the same.<p>
 <p>Other concepts might be a general location, such as a colony, or even a subgenre, such as post-apocalypse; anything that might be distilled down into a tarot card. Wow us with your ideas!</p>
