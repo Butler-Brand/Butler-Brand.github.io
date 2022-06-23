@@ -36,7 +36,7 @@ order: 5
 	</div>
 </div>
 <br />
-<p>Be advised the above are examples -- both 'A.I' and 'Geneticist' are not taken and could be open options for <em>your</em> story, complete with new, different illustrations: although another submitter might try the same.<p>
+<p>Be advised the above are examples -- both 'A.I' and 'Geneticist' are not taken and could be open options for <em>your</em> story, complete with new, different illustrations: although another author might potentially try the same.<p>
 <p>Other concepts might be a general location, such as a colony, or even a subgenre, such as post-apocalypse; anything that might be distilled down into a tarot card. Wow us with your ideas!</p>
 <p>Upon acceptance, an artist will be commissioned to work on a black & white illustration of the author's card concept to accompany their published story. Based on selections made, we may reach out to chosen authors concerning their card concepts. Your story will always be your story, full-stop, but your submitted card choice may require adjustment.</p>
 <p>In addition:</p>
