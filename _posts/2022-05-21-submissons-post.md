@@ -43,9 +43,9 @@ order: 5
 <p>Upon acceptance, an artist will be commissioned to work on a black & white illustration of the author's card concept to accompany their published story. Based on selections made, we may reach out to chosen authors concerning their card concepts. Your story will always be your story, full-stop, but your submitted card choice may require adjustment.</p>
 <p>In addition:</p>
 
-- Original stories will be accepted at our target rate of acceptance (3 cents/word).
+- Original stories will be accepted at our target rate of acceptance (3 USD cents/word).
   <br /><br />
-- Reprints will be accepted at a rate of 1 cent/word.
+- Reprints will be accepted at a rate of 1 USD cent/word.
   <br /><br />
 - No multiple submissions are allowed. Once your story has been rejected and, granted the submissions window is still open, you may submit again. If a story of yours has been accepted prior to the window closing, no further stories will be considered. One story at a time, please!
   <br /><br />
