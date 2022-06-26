@@ -50,7 +50,8 @@ order: 5
 - No multiple submissions are allowed. Once your story has been rejected and, granted the submissions window is still open, you may submit again. If a story of yours has been accepted prior to the window closing, no further stories will be considered. One story at a time, please!
   <br /><br />
 - Simultaneous submissions are allowed, provided we are promptly informed of the story's acceptance elsewhere
-
+  <br /><br />
+- Please allow for a 4-6 week response time to your submission
 <br /><br />
 <p>We shall seek 3 months worldwide print and digital rights on original works selected. For reprints we will seek non-exclusive rights</p>
 <p>&nbsp;<p>
