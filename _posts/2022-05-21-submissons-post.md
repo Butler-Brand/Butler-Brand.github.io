@@ -53,7 +53,8 @@ order: 5
 
 <br /><br />
 <p>We shall seek 3 months worldwide print and digital rights on original works selected. For reprints we will seek non-exclusive rights</p>
-
+<p>&nbsp;<p>
+{ SUBMIT HERE! }
 <p>&nbsp;<p>
 <p>&nbsp;<p>
 <p>&nbsp;<p>
