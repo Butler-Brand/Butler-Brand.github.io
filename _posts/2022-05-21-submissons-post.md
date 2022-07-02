@@ -53,6 +53,7 @@ order: 5
   <br /><br />
 - Please allow for a 4-6 week response time to your submission
 <br /><br />
+<p>The open call for submissions will officially begin <em>July 4th, 2022</em> and last until <em>October 4th, 2022</em></p>
 <p>We shall seek 3 months worldwide print and digital rights on original works selected. For reprints we will seek non-exclusive rights</p>
 <p>&nbsp;<p>
 <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSedIB1LJxTcVghLvMpviOViU8cOKQn9VwG9hzXxZfwIj4LMwQ/viewform" target="_blank">SUBMIT HERE</a></strong><br />
