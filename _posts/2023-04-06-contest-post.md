@@ -27,7 +27,7 @@ order: 5
 -Managing Editor and Writers of the Future winner Andy Dibble<br />
 -Managing Editor and founder of T.Spec, David F. Shultz<br />
 -"The Time Lottery", an exerpt story from <strong>The Science Fiction Tarot</strong> by UK author Ben Coppin
-<br /><br />
+<br />
 <p>Please wait 2-3 weeks after conclusion of the contest to recieve your entry prize.</p>
 <p>In addition, every participant in the contest will be eligable to win:</p>
 -<strong>Third Place:</strong> A free copy of <em>The Science Fiction Tarot</em> illustrated card deck (27 cards in all)<br />
