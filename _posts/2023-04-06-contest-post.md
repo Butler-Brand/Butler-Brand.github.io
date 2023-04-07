@@ -10,6 +10,16 @@ order: 5
 
 ## The Science Fiction Tarot Release Contest!
 
+<br />
+<br />
+<div class="tile">
+	<div>
+		<img src="/images/Tarot_Cruisers.jpg" class="tarot_card" />
+	</div>
+</div>
+<br />
+<br />
+
 <p>We are proud to announce that upon the release of our new anthology, <strong>The Science Fiction Tarot</strong> we are holding a contest where you are guaranteed to win free mechandise!</p>
 <p>Here are the details:</p>
 <p>Every participant in <em>The Science Fiction Tarot Release Contest</em> will automatically recieve a digital PDF containing stories from:</p>
