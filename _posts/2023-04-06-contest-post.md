@@ -27,6 +27,6 @@ order: 5
 -<strong>Third Place:</strong> A free copy of <em>The Science Fiction Tarot</em> illustrated card deck (27 cards in all)<br />
 -<strong>Second Place:</strong> A free copy of <em>The Science Fiction Tarot</em> anthology<br />
 -<strong>First Place:</strong> Both a copy of <em>The Science Fiction Tarot</em> card deck and anthology<br />
-<br /> <br />
+<br />
 <p>Contest and form will be open from April 30th until May 7th, 2023</p> 
 <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLScZkpbrfx72S20c_dT34l-2EGxGmT6o1mfjIw11WthQzE0fSA/viewform" target="_blank">ENTER HERE</a></strong><br />
