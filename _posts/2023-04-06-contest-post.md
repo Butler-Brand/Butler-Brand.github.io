@@ -14,11 +14,8 @@ order: 5
 <p>Here are the details:</p>
 <p>Every participant in <em>The Science Fiction Tarot Release Contest</em> will automatically recieve a digital PDF containing stories from:</p>
 -Lead Editor and Writers of the Future winner Brandon Butler
-<br /><br />
 -Managing Editor and Writers of the Future winner Andy Dibble
-<br /><br />
 -Managing Editor and founder of T.Spec, David F. Shultz
-<br /><br />
 -"The Time Lottery", an exerpt story from <strong>The Science Fiction Tarot</strong> by UK author Ben Coppin
 <br /><br />
 <p>Please wait 2-3 weeks after conclusion of the contest to recieve your entry prize.</p>
