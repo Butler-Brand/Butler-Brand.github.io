@@ -19,6 +19,7 @@ It officially launches at the end of April 2023, but the pre-order link is avail
 
 We're also doing a launch giveaway, which you can go and have a look at <a href="http://www.bydifferenthighways.com/posts/2023/04/06/contest-post.html">here</a>
 
+
 ## Brandon's Publications
 
 Look on my Works, ye Mighty, and despair!
