@@ -44,7 +44,7 @@ Look on my Works, ye Mighty, and despair!
 	Very proud to be a part of this one -- it was the story that told me I might actually want to keep at this writing thing this time around and see where it goes.
 	<a href="https://www.amazon.com/Laughing-at-Shadows-Brett-Reistroffer-ebook/dp/B0829GBNRW/ref=pd_rhf_se_p_img_8?_encoding=UTF8&psc=1&refRID=F2VTBN08SV5M4SZWE2R7" target="_blank">Get it here on Amazon!</a>
 	<br />
-* <strong>The Fire, as it Eats Itself</strong>, <em>forthcoming, 2021</em>: Helios Quarterly Magazine<br />
+* <strong>The Fire, as it Eats Itself</strong>, <em>2021</em>: Helios Quarterly Magazine<br />
 	This is one of my favorites, a good 15 years old since the first draft and generally unchanged since. Olivia Raymond and the fine folks at Helios have
 	be brought this your way, and should be available along with many other of their published works here:
 	<a href="https://www.amazon.ca/gp/product/B09CJB84ZC?tag=books2read02-20" target="_blank">Get it here on Amazon</a>
