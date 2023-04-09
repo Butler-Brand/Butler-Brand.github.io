@@ -17,6 +17,7 @@ and maybe a little guts. I couldn't be prouder to have served as lead editor and
 It officially launches at the end of April 2023, but the pre-order link is available here:
 <a href="https://www.amazon.com/dp/B0BWBY5RVS" target="_blank">Entry on Amazon</a>
 
+We're also doing a launch giveaway, which you can go and have a look at <href="http://www.bydifferenthighways.com/posts/2023/04/06/contest-post.html">here</a>
 
 ## Brandon's Publications
 
