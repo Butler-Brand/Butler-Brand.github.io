@@ -7,6 +7,17 @@ categories: posts
 order: 3
 ---
 
+## The Science Fiction Tarot
+
+Hey, I did an anthology!
+<br />
+So I was fotunate enough to put together an international project that brought together 22 Science Fiction authors into one volume that teems with talent, interior artwork,
+and maybe a little guts. I couldn't be prouder to have served as lead editor and it was a thrill to create with all the authors, edutors, illustrators and volunteers who contributed.
+
+It officially launches at the end of April 2023, but the pre-order link is available here:
+<a href="https://www.amazon.com/dp/B0BWBY5RVS" target="_blank">Entry on Amazon</a>
+
+
 ## Brandon's Publications
 
 Look on my Works, ye Mighty, and despair!
@@ -33,8 +44,9 @@ Look on my Works, ye Mighty, and despair!
 	<a href="https://www.amazon.com/Laughing-at-Shadows-Brett-Reistroffer-ebook/dp/B0829GBNRW/ref=pd_rhf_se_p_img_8?_encoding=UTF8&psc=1&refRID=F2VTBN08SV5M4SZWE2R7" target="_blank">Get it here on Amazon!</a>
 	<br />
 * <strong>The Fire, as it Eats Itself</strong>, <em>forthcoming, 2021</em>: Helios Quarterly Magazine<br />
-	This is one of my favorites, a good 15 years old since the first draft and generally unchanged since. Olivia Raymond and the fine folks at Helios will
-	be bringing this your way very soon.
+	This is one of my favorites, a good 15 years old since the first draft and generally unchanged since. Olivia Raymond and the fine folks at Helios have
+	be brought this your way, and should be available along with many other of their published works here:
+	<a href="https://www.amazon.ca/gp/product/B09CJB84ZC?tag=books2read02-20" target="_blank">Get it here on Amazon</a>
 	
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -55,6 +67,7 @@ I have a story in each of these volumes:
 * <strong>In the Zone</strong>, <em>2018</em>: Sanctuary <a href="https://www.amazon.ca/dp/B07JC8T36D/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" target="_blank">Get it here on Amazon!</a>
 * <strong>Eighteen Years</strong>, <em>2018</em>: Colony <a href="https://www.amazon.ca/Colony-one-shot-anthology-speculative-One-shot-ebook/dp/B07ZBKCR2S/ref=pd_rhf_se_p_img_6?_encoding=UTF8&psc=1&refRID=T8WAW8B3CH3X6X2CNNA4" target="_blank">Get it here on Amazon!</a>
 * <strong>The Common Sorcerer's Almanac</strong>, <em>2019</em>: Nourishment <a href="https://www.amazon.ca/Nourishment-One-Shot-Anthology-Speculative-speculative-ebook/dp/B07YF1P4GW/ref=pd_rhf_dp_p_img_4?_encoding=UTF8&psc=1&refRID=1QJ9B8ZBV9N28XKA7SEX" target="_blank">Get it here on Amazon!</a>
+* <strong>Jenny, Macrog, and the Social-Work-Media Coup</strong>, <em>2020</em>: Outsiders <a href="https://www.amazon.ca/Outsiders-One-Shot-Anthology-Speculative-Fiction/dp/1999203682" target="_blank">Get it here on Amazon!</a>
 
 	
 I'll be updating this page as more stories are sold, so stay tuned!
