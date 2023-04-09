@@ -48,14 +48,14 @@ Look on my Works, ye Mighty, and despair!
 * <strong>The Fire, as it Eats Itself</strong>, <em>2021</em>: Helios Quarterly Magazine<br />
 	This is one of my favorites, a good 15 years old since the first draft and generally unchanged since. Olivia Raymond and the fine folks at Helios have
 	be brought this your way, and should be available along with many other of their published works here:
-	<a href="https://www.amazon.ca/gp/product/B09CJB84ZC?tag=books2read02-20" target="_blank">Get it here on Amazon</a>
+	<a href="https://www.amazon.ca/gp/product/B09CJB84ZC?tag=books2read02-20" target="_blank">Get it here on Amazon!</a>
 	
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 	
 TDotSpec's One-Day Writing Challenge
 
-Now entering it's third year, the Toronto Science Fiction and Fantasy Writing group -- possibly the largest speculative writing group in Canada -- puts on a challenge
+Now entering it's seventh year, the Toronto Science Fiction and Fantasy Writing group -- possibly the largest speculative writing group in Canada -- puts on a challenge
 to write an entire story in a 24-hour period. These are then compiled into an anthology sold online, warts and all. Which, considering you know what
 you submit can't possible be porfect, is part of the challenge.
 
