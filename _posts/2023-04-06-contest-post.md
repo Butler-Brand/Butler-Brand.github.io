@@ -11,7 +11,7 @@ order: 5
 ## The Science Fiction Tarot Release Contest!
 <div class="tile">
 	<div>
-		<img src="/images/Tarot_Cruisers.jpg" class="tarot_card" />
+		<img src="/images/The_Science_Fiction_Tarot_cover_2.jpg" class="tarot_card" />
 	</div>
 </div>
 <br />
