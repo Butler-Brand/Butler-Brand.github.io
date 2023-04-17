@@ -19,7 +19,7 @@ order: 5
 <br />
 <p>We are proud to announce that upon the release of our new anthology, <strong>The Science Fiction Tarot</strong> we are holding a contest where you are guaranteed to win free mechandise!</p>
 <p>Here are the details:</p>
-<p>Every participant in <em>The Science Fiction Tarot Release Contest</em> will automatically recieve a digital PDF containing stories from:</p>
+<p>Every participant in <em>The Science Fiction Tarot Release Contest</em> will automatically receive a digital PDF containing stories from:</p>
 -Lead Editor and Writers of the Future winner Brandon Butler<br />
 -Managing Editor and Writers of the Future winner Andy Dibble<br />
 -Managing Editor and founder of T.Spec, David F. Shultz<br />
