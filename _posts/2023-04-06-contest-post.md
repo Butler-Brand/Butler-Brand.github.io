@@ -9,10 +9,15 @@ order: 5
 
 
 ## The Science Fiction Tarot Release Contest!
-<div class="tile">
+<div class="row">
 	<div>
 		<a href="https://www.amazon.com/dp/B0BWBY5RVS" target="_blank">
 			<img src="/images/The_Science_Fiction_Tarot_cover_2.jpg" class="tarot_card" />
+		</a>
+	</div>
+	<div>
+		<a href="https://www.amazon.com/dp/B0C2SMKM7R" target="_blank">
+			<img src="/images/The_Science_Fiction_Tarot_cover_paperback.jpg" class="tarot_card" />
 		</a>
 	</div>
 </div>
