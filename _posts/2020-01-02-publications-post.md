@@ -17,8 +17,6 @@ and maybe a little guts. I couldn't be prouder to have served as lead editor and
 It officially launches at the end of April 2023, but the pre-order link is available here:
 <a href="https://www.amazon.com/dp/B0BWBY5RVS" target="_blank">Entry on Amazon</a>
 
-We're also doing a launch giveaway, which you can go and have a look at <a href="http://www.bydifferenthighways.com/posts/2023/04/06/contest-post.html">here</a>
-
 
 ## Brandon's Publications
 
@@ -66,10 +64,11 @@ I enter every year. It's a lot of fun.
 
 I have a story in each of these volumes:
 
-* <strong>In the Zone</strong>, <em>2018</em>: Sanctuary <a href="https://www.amazon.ca/dp/B07JC8T36D/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" target="_blank">Get it here on Amazon!</a>
-* <strong>Eighteen Years</strong>, <em>2018</em>: Colony <a href="https://www.amazon.ca/Colony-one-shot-anthology-speculative-One-shot-ebook/dp/B07ZBKCR2S/ref=pd_rhf_se_p_img_6?_encoding=UTF8&psc=1&refRID=T8WAW8B3CH3X6X2CNNA4" target="_blank">Get it here on Amazon!</a>
-* <strong>The Common Sorcerer's Almanac</strong>, <em>2019</em>: Nourishment <a href="https://www.amazon.ca/Nourishment-One-Shot-Anthology-Speculative-speculative-ebook/dp/B07YF1P4GW/ref=pd_rhf_dp_p_img_4?_encoding=UTF8&psc=1&refRID=1QJ9B8ZBV9N28XKA7SEX" target="_blank">Get it here on Amazon!</a>
+* <strong>In the Zone</strong>, <em>2018</em>: Sanctuary <a href="https://www.amazon.ca/dp/B07JC8T36D" target="_blank">Get it here on Amazon!</a>
+* <strong>Eighteen Years</strong>, <em>2018</em>: Colony <a href="https://www.amazon.ca/Colony-one-shot-anthology-speculative-One-shot-ebook/dp/B07ZBKCR2S" target="_blank">Get it here on Amazon!</a>
+* <strong>The Common Sorcerer's Almanac</strong>, <em>2019</em>: Nourishment <a href="https://www.amazon.ca/Nourishment-One-Shot-Anthology-Speculative-speculative-ebook/dp/B07YF1P4GW" target="_blank">Get it here on Amazon!</a>
 * <strong>Jenny, Macrog, and the Social-Work-Media Coup</strong>, <em>2020</em>: Outsiders <a href="https://www.amazon.ca/Outsiders-One-Shot-Anthology-Speculative-Fiction/dp/1999203682" target="_blank">Get it here on Amazon!</a>
+* <strong>Death Trembles</strong>, <em>2022</em>: Legacy <a href="https://www.amazon.ca/Legacy-One-Shot-Anthology-Speculative-Fiction/dp/B0BGNL4TL5" target="_blank">Get it here on Amazon!</a>
 
 	
 I'll be updating this page as more stories are sold, so stay tuned!
