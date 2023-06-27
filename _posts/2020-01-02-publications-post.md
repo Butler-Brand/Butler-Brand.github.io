@@ -10,7 +10,7 @@ order: 3
 ## The Science Fiction Tarot
 
 Hey, I did an anthology!
-<br />
+
 So I was fotunate enough to put together an international project that brought together 22 Science Fiction authors into one volume that teems with talent, interior artwork,
 and maybe a little guts. I couldn't be prouder to have served as lead editor and it was a thrill to create with all the authors, edutors, illustrators and volunteers who contributed.
 
