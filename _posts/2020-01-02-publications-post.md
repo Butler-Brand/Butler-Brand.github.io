@@ -14,7 +14,7 @@ Hey, I did an anthology!
 So I was fotunate enough to put together an international project that brought together 22 Science Fiction authors into one volume that teems with talent, interior artwork,
 and maybe a little guts. I couldn't be prouder to have served as lead editor and it was a thrill to create with all the authors, edutors, illustrators and volunteers who contributed.
 
-It officially launches at the end of April 2023, but the pre-order link is available here:
+It officially launched at the end of April 2023, and the link is available here:
 <a href="https://www.amazon.com/dp/B0BWBY5RVS" target="_blank">Entry on Amazon</a>
 
 
